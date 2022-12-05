@@ -206,7 +206,7 @@
 
         <section class="gla_section gla_image_bck" id="glipmses">
           <div class="container text-center" style="padding-bottom:0">
-            <h2 style="margin-bottom:10px">Engagement Stills</h2>
+            <h2 style="margin-bottom:10px">Pre-wedding Stills</h2>
             <div class="gla_portfolio_no_padding grid">
               <div
                 v-for="(image, index) in imagelist"
