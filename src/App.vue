@@ -70,8 +70,8 @@
 
       <div
         class="gla_slider gla_image_bck gla_wht_txt gla_fixed"
-        v-lazy="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1669105828/background_i7vhl7.jpg'"
-        :data-image="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1669105828/background_i7vhl7.jpg'"
+        v-lazy="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1670219731/DSC03130_pfpavf.png'"
+        :data-image="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1670219731/DSC03130_pfpavf.png'"
         data-stellar-background-ratio="0.8"
       >
         <div class="gla_over" data-color="#1e1d2d" data-opacity="0.2"></div>
