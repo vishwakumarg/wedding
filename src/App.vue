@@ -70,8 +70,8 @@
 
       <div
         class="gla_slider gla_image_bck gla_wht_txt gla_fixed"
-        v-lazy="'https://www.photobox.co.uk/my/photo/full?photo_id=505046428899'"
-        :data-image="'https://www.photobox.co.uk/my/photo/full?photo_id=505046428899'"
+        v-lazy="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1669105828/background_i7vhl7.jpg'"
+        :data-image="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1669105828/background_i7vhl7.jpg'"
         data-stellar-background-ratio="0.8"
       >
         <div class="gla_over" data-color="#1e1d2d" data-opacity="0.2"></div>
@@ -92,10 +92,6 @@
                   2022
                 </b>
               </div>
-              <img
-                src=""
-                alt
-              >
             </div>
             <div class="gla_slide_txt gla_slide_center_bottom text-center">
               <div class="gla_slide_midtitle_main">We're Getting Married</div>
@@ -276,22 +272,22 @@ export default {
     this.imagelist = [
       {
         image:
-          "https://via.placeholder.com/600x600",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218274/Traditional_dnqr57.png",
         category: "engagement"
       },
       {
         image:
-          "https://via.placeholder.com/600x600",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218274/mumbai_pune_zsloos.png",
         category: "engagement"
       },
       {
         image:
-          "https://via.placeholder.com/600x600",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670217949/DSC03253_tfnguv.png",
         category: "engagement"
       },
       {
         image:
-          "https://via.placeholder.com/600x600",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670217950/DSC03302_hu5kr3.png",
         category: "engagement"
       }
     ];
