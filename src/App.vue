@@ -265,7 +265,7 @@ export default {
       },
       {
         image:
-          "https://via.placeholder.com/200x200",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218744/mom_kgm47y.png",
         name: "Smt Sayali Kadam"
       }
     ];
