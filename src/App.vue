@@ -260,7 +260,7 @@ export default {
     this.hostlist = [
       {
         image:
-          "https://via.placeholder.com/200x200",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670396903/dad_jhohzw.png",
         name: "Shri Bharat Kadam"
       },
       {
