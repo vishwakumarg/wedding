@@ -27,8 +27,8 @@
           <div class="container">
             <div class="gla_logo_container clearfix">
               <div class="gla_logo_txt">
-                <a v-bind:href="'/'" class="gla_logo">Swapnil & Priyanka</a>
-                <div class="gla_logo_und">December 18, 2022</div>
+                <a v-bind:href="'/'" class="gla_logo">Amol & Swapnali</a>
+                <div class="gla_logo_und">May 21, 2023</div>
               </div>
             </div>
 
@@ -79,17 +79,17 @@
           <div class="gla_slide_txt gla_slide_center_middle text-center">
             <div class="gla_flower gla_flower2">
               <div class="gla_flower2_name_l" style="margin-right: 90px !important;">
-                Swapnil
+                Amol
                 <b>
                   Save The
                   Date
                 </b>
               </div>
               <div class="gla_flower2_name_r" style="margin-left: 90px !important;">
-                Priyanka
+                Swapnali
                 <b>
-                  December 18,
-                  2022
+                  May 21,
+                  2023
                 </b>
               </div>
             </div>
@@ -172,11 +172,11 @@
             <div class="row text-center">
               <div >
                 <div class="col-lg-6 text-center">
-                  <span class="gla_news_title">Haldi Ceremony <br> <b>16th Dec 2022</b></span>
+                  <span class="gla_news_title">Haldi Ceremony <br> <b>20th May 2023</b></span>
                   <p>The haldi ceremony is usually held separately for the bride and the groom. It is a low-key event that involves the application of turmeric paste on the hands, legs and face of the bride and the groom. The groom is not allowed to see the bride after this ritual until the final wedding ceremony starts.</p>
                 </div>
                 <div class="col-lg-6 text-center">
-                  <span class="gla_news_title">Wedding Ceremony & Reception <br> <b>18th Dec 2022</b></span>
+                  <span class="gla_news_title">Wedding Ceremony & Reception <br> <b>21th May 2023</b></span>
                   <p>This is the main event in the entire wedding when the bride and the groom ties the knot. The groom comes with the barat and is greeted by the bride side followed by some rituals and of course as maximum number of guests would be attending this event. This is when the couple circle the sacred fire and are finally declared husband and wife.</p>
                 </div>
               </div>
@@ -196,7 +196,7 @@
                 <br>Alandi Rd, Chovisawadi, Charholi Budruk, Pune.
               </p>
               <p>
-                <b>December 18th, 2022</b>
+                <b>May 21st, 2023</b>
                 <br>12:25 PM
                 <br>
               </p>
@@ -261,12 +261,12 @@ export default {
       {
         image:
           "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670396903/dad_jhohzw.png",
-        name: "Shri Bharat Kadam"
+        name: "Shri Pandurang Desai"
       },
       {
         image:
           "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218744/mom_kgm47y.png",
-        name: "Smt Sayali Kadam"
+        name: ""
       }
     ];
     this.imagelist = [
