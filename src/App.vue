@@ -157,7 +157,7 @@
                 alt
               >
             </p>
-            <h2>December 18th, 2022</h2>
+            <h2>May 21st, 2023</h2>
             <h3 class="gla_subtitle" style="margin-bottom:0">
               Gurukrupa Garden Mangal Karyalay,
               <br>Alandi Rd, Chovisawadi, Charholi Budruk, Pune.
@@ -184,7 +184,7 @@
             <div class="gla_icon_boxes row text-center">
               <div class="gla_map">
                 <iframe
-                  src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d572.8385969655732!2d73.88589588616342!3d18.659725886956746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c7d27c4cb347%3A0x49ee2ddb3a564d47!2sGurukrupa%20Garden%20Mangal%20Karyalay!5e0!3m2!1sen!2sin!4v1667192417532!5m2!1sen!2sin"
+                  src= "https://maps.app.goo.gl/sAbuSLmQSQ3RxYDf8"
                   width="100%"
                   height="500"
                   style="padding: 50px 0;"
@@ -197,7 +197,7 @@
               </p>
               <p>
                 <b>May 21st, 2023</b>
-                <br>12:25 PM
+                <br>05:30 PM
                 <br>
               </p>
             </div>
@@ -266,7 +266,7 @@ export default {
       {
         image:
           "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218744/mom_kgm47y.png",
-        name: ""
+        name: "Smt Jayashree Desai"
       }
     ];
     this.imagelist = [
