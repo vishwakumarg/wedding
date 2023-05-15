@@ -184,7 +184,7 @@
             <div class="gla_icon_boxes row text-center">
               <div class="gla_map">
                 <iframe
-                  src= "https://maps.app.goo.gl/sAbuSLmQSQ3RxYDf8"
+                  src= "https://goo.gl/maps/7tDRJtrbNJ1ERLE8A?coh=178573&entry=tt"
                   width="100%"
                   height="500"
                   style="padding: 50px 0;"
