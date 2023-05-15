@@ -206,7 +206,7 @@
 
         <section class="gla_section gla_image_bck" id="glipmses">
           <div class="container text-center" style="padding-bottom:0">
-            <h2 style="margin-bottom:10px">Pre-wedding Stills</h2>
+            <h2 style="margin-bottom:10px">Engagement Stills</h2>
             <div class="gla_portfolio_no_padding grid">
               <div
                 v-for="(image, index) in imagelist"
@@ -282,12 +282,12 @@ export default {
       },
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670217949/DSC03253_tfnguv.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684129575/WhatsApp_Image_2023-05-15_at_11.09.03_AM_u5re9h.jpg",
         category: "engagement"
       },
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670217950/DSC03302_hu5kr3.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684129574/WhatsApp_Image_2023-05-15_at_11.14.48_AM_lnczdx.jpg",
         category: "engagement"
       }
     ];
