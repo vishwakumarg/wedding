@@ -70,8 +70,8 @@
 
       <div
         class="gla_slider gla_image_bck gla_wht_txt gla_fixed"
-        v-lazy="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1684129843/WhatsApp_Image_2023-05-15_at_11.09.05_AM-removebg-preview_fn9b54.png'"
-        :data-image="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1684129843/WhatsApp_Image_2023-05-15_at_11.09.05_AM-removebg-preview_fn9b54.png'"
+        v-lazy="'https://res.cloudinary.com/dzf7mrwre/image/upload/v1684137096/WhatsApp_Image_2023-05-15_at_11.09.05_AM-depositphotos-bgremover_sikw0g.png'"
+        :data-image="',https://res.cloudinary.com/dzf7mrwre/image/upload/v1684137096/WhatsApp_Image_2023-05-15_at_11.09.05_AM-depositphotos-bgremover_sikw0g.png'"
         data-stellar-background-ratio="0.8"
       >
         <div class="gla_over" data-color="#1e1d2d" data-opacity="0.2"></div>
