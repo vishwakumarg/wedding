@@ -159,10 +159,10 @@
             </p>
             <h2>May 21st, 2023</h2>
             <h3 class="gla_subtitle" style="margin-bottom:0">
-              Gurukrupa Garden Mangal Karyalay,
-              <br>Alandi Rd, Chovisawadi, Charholi Budruk, Pune.
+              Shirale tarfe Malkapur,
+              <br>Kolhapur.
             </h3>
-            <div class="gla_countdown" data-year="2022" data-month="12" data-day="18"></div>
+            <div class="gla_countdown" data-year="2023" data-month="05" data-day="21"></div>
           </div>
         </section>
 
@@ -192,8 +192,8 @@
               </div>
               <span class="gla_news_title">Wedding Venue</span>
               <p>
-                <strong>Gurukrupa Garden Mangal Karyalay</strong>
-                <br>Alandi Rd, Chovisawadi, Charholi Budruk, Pune.
+                <strong>Shirale tarfe Malkapur</strong>
+                <br>Kolhapur
               </p>
               <p>
                 <b>May 21st, 2023</b>
