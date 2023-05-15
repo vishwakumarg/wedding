@@ -260,19 +260,19 @@ export default {
     this.hostlist = [
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670396903/dad_jhohzw.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684120580/WhatsApp_Image_2023-05-14_at_5.21.28_PM_pfrl1y.jpg",
         name: "Shri Pandurang Desai"
       },
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218744/mom_kgm47y.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684120580/WhatsApp_Image_2023-05-14_at_5.21.28_PM_1_ne2pyt.jpg",
         name: "Smt Jayashree Desai"
       }
     ];
     this.imagelist = [
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218274/Traditional_dnqr57.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684120581/WhatsApp_Image_2023-05-13_at_9.20.07_AM_ad3x3m.jpg",
         category: "engagement"
       },
       {
