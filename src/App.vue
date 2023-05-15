@@ -277,7 +277,7 @@ export default {
       },
       {
         image:
-          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1670218274/mumbai_pune_zsloos.png",
+          "https://res.cloudinary.com/dzf7mrwre/image/upload/v1684121639/WhatsApp_Image_2023-05-13_at_9.20.04_AM_uurzzq.jpg",
         category: "engagement"
       },
       {
